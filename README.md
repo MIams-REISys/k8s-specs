@@ -1,1 +1,1 @@
-# k8s-specs
+# Kubernetes scripts
